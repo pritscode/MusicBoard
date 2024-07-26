@@ -25,7 +25,30 @@ th, td {
     width: 44px;
 }
 
+.boardSection {
+    display: inline-block;
+    width: 50%;
+    padding: 16px;
+}
+
+.cube {
+    width: 100%;
+}
+
+.sideBoard {
+    display: inline-block;
+    width: 50%;
+    padding: 16px;
+    background-color: dimgray;
+}
+
 .pageInfo {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.songInfo {
     margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
