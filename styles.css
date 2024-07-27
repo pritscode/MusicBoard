@@ -48,6 +48,17 @@ th, td {
     justify-content: space-between;
 }
 
+.songButton {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 16px;
+}
+
+.addSongButton {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+}
+
 .songInfo {
     margin-bottom: 20px;
     display: flex;
